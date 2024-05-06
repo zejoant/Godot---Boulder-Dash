@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/dig.mp3-cbd2513d75ac5b5ecd52424e81489098.mp3str"
+
+[deps]
+
+source_file="res://Audio/dig.mp3"
+dest_files=[ "res://.import/dig.mp3-cbd2513d75ac5b5ecd52424e81489098.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
